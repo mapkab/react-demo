@@ -7,7 +7,7 @@ class App extends Component{
 	constructor(props) {
 		super(props)
 		this.state={
-			'navText':'This is the navBar'
+			'navText':'This is the navBar~'
 		}
 	}
 	render() {
